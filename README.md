@@ -1,1 +1,1 @@
-# Sucide-rate-data-Analysis-EDA-
+# Sucide-rate-data-Analysis-EDA
